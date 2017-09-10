@@ -2,71 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbb021a0-3977-461c-8732-adddb47651ac" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codewar/pattern#4.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3c/example1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3c/example10.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3c/example11.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3c/example12.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3c/example13.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3c/example14.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3c/example2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3c/example3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3c/example4.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3c/example5.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3c/example6.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3c/example7.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3c/example8.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3c/example9.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2count.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GCD.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GUI1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GUI2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GUI3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/No Dos.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SCB.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/calculator.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/edward.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/eval.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/factorial.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fibs.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/final GUI.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/find the same.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/find2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fruit item.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gougu.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/heart line1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hellowordl.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/judge trangle.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/key dict.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/my first.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/oj1022.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/oj1118.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/oj1388.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/oj1593.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/oj1594.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/oj1615.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/oj1626.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/oj1924.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/oj1944.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/oj1994.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/oj2400.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prime 1-100.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pytip17.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pytip45.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reverse.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reverseGCD.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/square number.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/the catch of html.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/times.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wxpy1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wxpy2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/year month day.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/python.iml" afterPath="$PROJECT_DIR$/.idea/python.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3c/example15.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3c/example17.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3c/example18.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3c/example19.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3c/example20.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3c/example21.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3c/example22.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,7 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -108,6 +50,13 @@
         <option value="$PROJECT_DIR$/w3c/example12.py" />
         <option value="$PROJECT_DIR$/w3c/example13.py" />
         <option value="$PROJECT_DIR$/w3c/example14.py" />
+        <option value="$PROJECT_DIR$/w3c/example15.py" />
+        <option value="$PROJECT_DIR$/w3c/example17.py" />
+        <option value="$PROJECT_DIR$/w3c/example18.py" />
+        <option value="$PROJECT_DIR$/w3c/example19.py" />
+        <option value="$PROJECT_DIR$/w3c/example20.py" />
+        <option value="$PROJECT_DIR$/w3c/example21.py" />
+        <option value="$PROJECT_DIR$/w3c/example22.py" />
       </list>
     </option>
   </component>
@@ -171,8 +120,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.example14">
-    <configuration name="example10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.example22">
+    <configuration name="example15" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -184,12 +133,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/w3c/example10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/w3c/example15.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="example11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="example18" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -201,12 +150,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/w3c/example11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/w3c/example18.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="example12" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="example20" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -218,12 +167,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/w3c/example12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/w3c/example20.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="example13" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="example21" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -235,12 +184,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/w3c/example13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/w3c/example21.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="example14" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="example22" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -252,25 +201,25 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/w3c/example14.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/w3c/example22.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.example10" />
-      <item index="1" class="java.lang.String" itemvalue="Python.example11" />
-      <item index="2" class="java.lang.String" itemvalue="Python.example12" />
-      <item index="3" class="java.lang.String" itemvalue="Python.example13" />
-      <item index="4" class="java.lang.String" itemvalue="Python.example14" />
+      <item index="0" class="java.lang.String" itemvalue="Python.example15" />
+      <item index="1" class="java.lang.String" itemvalue="Python.example18" />
+      <item index="2" class="java.lang.String" itemvalue="Python.example20" />
+      <item index="3" class="java.lang.String" itemvalue="Python.example21" />
+      <item index="4" class="java.lang.String" itemvalue="Python.example22" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.example14" />
-        <item index="1" class="java.lang.String" itemvalue="Python.example13" />
-        <item index="2" class="java.lang.String" itemvalue="Python.example12" />
-        <item index="3" class="java.lang.String" itemvalue="Python.example11" />
-        <item index="4" class="java.lang.String" itemvalue="Python.example10" />
+        <item index="0" class="java.lang.String" itemvalue="Python.example22" />
+        <item index="1" class="java.lang.String" itemvalue="Python.example21" />
+        <item index="2" class="java.lang.String" itemvalue="Python.example20" />
+        <item index="3" class="java.lang.String" itemvalue="Python.example18" />
+        <item index="4" class="java.lang.String" itemvalue="Python.example15" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +248,7 @@
   <component name="ToolWindowManager">
     <frame x="20" y="30" width="1260" height="665" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24876848" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25287357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.49343187" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3263158" sideWeight="0.50656813" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3263158" sideWeight="0.49343187" order="2" side_tool="false" content_ui="tabs" />
@@ -366,7 +315,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -518,7 +466,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -526,7 +473,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -534,7 +480,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -542,7 +487,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -550,7 +494,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -558,7 +501,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -566,14 +508,42 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w3c/example12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w3c/example13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w3c/example10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w3c/example15.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="45" lean-forward="false" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/w3c/example8.py">
+    <entry file="file://$PROJECT_DIR$/w3c/example17.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="34" lean-forward="false" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        <state relative-caret-position="105">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -586,22 +556,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/w3c/example12.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/w3c/example13.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/w3c/example14.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -610,10 +564,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/w3c/example10.py">
+    <entry file="file://$PROJECT_DIR$/w3c/example8.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        <state relative-caret-position="45">
+          <caret line="3" column="34" lean-forward="false" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
           <folding />
         </state>
       </provider>
@@ -622,6 +576,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w3c/example18.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w3c/example19.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w3c/example20.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w3c/example21.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w3c/example22.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="59" lean-forward="false" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
           <folding />
         </state>
       </provider>
