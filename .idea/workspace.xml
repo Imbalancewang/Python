@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbb021a0-3977-461c-8732-adddb47651ac" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codewar/Count the smiley faces!.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codewar/Directions Reduction.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codewar/Fold an array.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codewar/Playing with digits.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codewar/RGB To Hex Conversion.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codewar/Sort the odd.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codewar/Split Strings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codewar/Triple trouble.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codewar/Vasya - Clerk.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codewar/Weight for weight.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codewar/First non-repeating letter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codewar/Roman Numerals Encoder.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codewar/Snail.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codewar/Strip Comments.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codewar/Two Joggers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codewar/Where my anagrams at.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codewar/roman.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/codewar/Weight for weight.py" afterPath="$PROJECT_DIR$/codewar/Weight for weight.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,11 +21,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Weight for weight.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/codewar/Weight for weight.py">
+      <file leaf-file-name="Roman Numerals Encoder.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/codewar/Roman Numerals Encoder.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="210">
+              <caret line="14" column="52" lean-forward="true" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Snail.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codewar/Snail.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -56,14 +64,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/w3c/example17.py" />
-        <option value="$PROJECT_DIR$/w3c/example18.py" />
-        <option value="$PROJECT_DIR$/w3c/example19.py" />
-        <option value="$PROJECT_DIR$/w3c/example20.py" />
-        <option value="$PROJECT_DIR$/w3c/example21.py" />
-        <option value="$PROJECT_DIR$/w3c/example22.py" />
-        <option value="$PROJECT_DIR$/w3c/example23.py" />
-        <option value="$PROJECT_DIR$/w3c/example24.py" />
         <option value="$PROJECT_DIR$/w3c/example25.py" />
         <option value="$PROJECT_DIR$/w3c/example26.py" />
         <option value="$PROJECT_DIR$/w3c/example27.py" />
@@ -107,6 +107,14 @@
         <option value="$PROJECT_DIR$/codewar/Count the smiley faces!.py" />
         <option value="$PROJECT_DIR$/codewar/Sort the odd.py" />
         <option value="$PROJECT_DIR$/codewar/Weight for weight.py" />
+        <option value="$PROJECT_DIR$/codewar/Strip Comments.py" />
+        <option value="$PROJECT_DIR$/codewar/roman.py" />
+        <option value="$PROJECT_DIR$/codewar/Roman Numerals Encoder.py" />
+        <option value="$PROJECT_DIR$/codewar/First non-repeating letter.py" />
+        <option value="$PROJECT_DIR$/codewar/Two Joggers.py" />
+        <option value="$PROJECT_DIR$/codewar/Snail.py" />
+        <option value="$PROJECT_DIR$/messcode/IP Validation.py" />
+        <option value="$PROJECT_DIR$/codewar/Where my anagrams at.py" />
       </list>
     </option>
   </component>
@@ -179,8 +187,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Sort the odd">
-    <configuration name="Count the smiley faces!" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Where my anagrams at">
+    <configuration name="First non-repeating letter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -192,12 +200,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewar/Count the smiley faces!.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewar/First non-repeating letter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Playing with digits" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Roman Numerals Encoder" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -209,12 +217,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewar/Playing with digits.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewar/Roman Numerals Encoder.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="RGB To Hex Conversion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Snail" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -226,12 +234,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewar/RGB To Hex Conversion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewar/Snail.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Sort the odd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Two Joggers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -243,12 +251,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewar/Sort the odd.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewar/Two Joggers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Split Strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Where my anagrams at" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -260,7 +268,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewar/Split Strings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewar/Where my anagrams at.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,19 +292,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.example47" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Playing with digits" />
-      <item index="2" class="java.lang.String" itemvalue="Python.RGB To Hex Conversion" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Split Strings" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Count the smiley faces!" />
-      <item index="5" class="java.lang.String" itemvalue="Python.Sort the odd" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Roman Numerals Encoder" />
+      <item index="2" class="java.lang.String" itemvalue="Python.First non-repeating letter" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Two Joggers" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Snail" />
+      <item index="5" class="java.lang.String" itemvalue="Python.Where my anagrams at" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Sort the odd" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Count the smiley faces!" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Split Strings" />
-        <item index="3" class="java.lang.String" itemvalue="Python.RGB To Hex Conversion" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Playing with digits" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Where my anagrams at" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Snail" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Two Joggers" />
+        <item index="3" class="java.lang.String" itemvalue="Python.First non-repeating letter" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Roman Numerals Encoder" />
       </list>
     </recent_temporary>
   </component>
@@ -329,9 +337,9 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27339903" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.49343187" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3263158" sideWeight="0.50656813" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3263158" sideWeight="0.49343187" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3263158" sideWeight="0.49343187" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.48029557" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32982457" sideWeight="0.46059114" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.46059114" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24958949" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.4868637" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -389,69 +397,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/w3c/example18.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/w3c/example19.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/w3c/example20.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/w3c/example21.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/w3c/example22.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="90" lean-forward="false" selection-start-line="6" selection-start-column="90" selection-end-line="6" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/w3c/example23.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/w3c/example24.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/w3c/example25.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/w3c/example26.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/w3c/example27.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -733,8 +678,80 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/codewar/Weight for weight.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="240">
+          <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codewar/Strip Comments.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codewar/roman.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="16" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="2" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codewar/First non-repeating letter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messcode/GCD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codewar/Two Joggers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messcode/IP Validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codewar/Where my anagrams at.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codewar/Snail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codewar/Roman Numerals Encoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="52" lean-forward="true" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
           <folding />
         </state>
       </provider>
