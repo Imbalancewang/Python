@@ -22,5 +22,5 @@ def green(n):
         else:
             res.append(sq)
             q=sq
-    return res[n-1]
-print green(5000)
+    return res
+print green(10)
