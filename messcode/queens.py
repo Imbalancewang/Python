@@ -10,6 +10,6 @@ def queens(num=8,state=()):
             if len(state)==num-1:
                 yield (pos,)
             else:
-                for result in queens(num,state+(pos,)):#tuple type
+                for result in queens(num,state+(pos,)):#,tuple type
                     yield (pos,)+result
-print len(list(queens(11)))
+print (list(queens(4)))
