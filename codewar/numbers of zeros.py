@@ -8,7 +8,7 @@ def zeros(n):
             n=n/5
             res=res+n
     return res
-print zeros(4)
+print zeros(10)
 
 
 #edition2.7
