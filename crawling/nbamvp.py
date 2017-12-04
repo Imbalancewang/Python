@@ -25,6 +25,7 @@ def download(url,user_agent='matthew',proxy=None,num_tries=2):
         if num_tries>0:
             if hasattr(e,'code') and 500<=e.code<=600:
                 return download(url,user_agent,num_tries-1)
+
     return html
 def getData(url):
     FindSeason='<td class="current season change_color col0 row.*">(.*)</td>'
@@ -112,7 +113,7 @@ def savedata(datalist,name):
 if __name__ == '__main__':
     url='http://www.stat-nba.com/award/item0.html'
     datalist=getData(url)
-    name='matthew.xlsx'
+    name='matt.xlsx'
     savedata(datalist,name)
     print len(datalist[0])
     print len(datalist)
