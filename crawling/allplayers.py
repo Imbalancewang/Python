@@ -6,12 +6,14 @@
 # @Software: PyCharm Community Edition
 #4613
 import urllib2,urllib,urlparse,re,xlwt
-import sys,time
+import sys,time,socket
 from datetime import datetime
 reload(sys)
 sys.setdefaultencoding('utf8')
-def download(url,user_agent='wswp',proxy=None,num_tries=2):
+#socket.setdefaulttimeout(60)
+def download(url,user_agent='matthew',proxy=None,num_tries=2):
     print 'Downloading:',url
+    user_agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36'
     headers={'User_agent':user_agent}
     request=urllib2.Request(url,headers=headers)
     opener=urllib2.build_opener()
@@ -19,9 +21,12 @@ def download(url,user_agent='wswp',proxy=None,num_tries=2):
         proxy_params={urlparse.urlparse(url).scheme:proxy}
         opener.add_handler(urllib2.ProxyHandler(proxy_params))
     try:
-        html=urllib2.urlopen(request).read()
+        html=urllib2.urlopen(request,timeout=60).read()
     except urllib2.URLError as e:
-        print 'Downloading error:',e.reason
+        if isinstance(e.reason,socket.timeout):
+            print 'Downloading error:',e.reason,url
+            return None
+        print 'Downloading error:', e.reason
         html=None
         if num_tries>0:
             if hasattr(e,'code') and 500<=e.code<=600:
@@ -30,6 +35,7 @@ def download(url,user_agent='wswp',proxy=None,num_tries=2):
     return html
 def getData(url):
     html=download(url)
+    if html==None:return ['']*30
     FindName='<div class="row"><div class="column">全　　名:</div>(.*)</div>'
     FindPosition='<div class="row"><div class="column">位　　置:</div>(.*)</div>'
     FindHeight='<div class="row"><div class="column">身　　高:</div>(.*)米.*</div>'
@@ -45,7 +51,6 @@ def getData(url):
     FindNormalthreepper='<td class="normal threepper">(.*)</td>'
     FindNormalthreep='<td class="normal threep">(.*)</td>'
     FindNormalthreepa='<td class="normal threepa">(.*)</td>'
-    FindNormalftper='<td class="normal threepa">(.*)</td>'
     FindNormalftper='<td class="normal ftper">(.*)</td>'
     FindNormalft='<td class="normal ft">(.*)</td>'
     FindNormalfta='<td class="normal fta">(.*)</td>'
@@ -61,15 +66,14 @@ def getData(url):
     FindNormalw='<td class="normal w">(.*)</td>'
     FindNormall='<td class="normal l">(.*)</td>'
     datalist=[]
-    if html==None:return datalist
     Name=re.findall(FindName,html)
     Position=re.findall(FindPosition,html)
     Height=re.findall(FindHeight,html)
     Weight=re.findall(FindWeight,html)
-    datalist.append(Name[0])
-    datalist.append(Position[0])
-    datalist.append(Height[0])
-    datalist.append(Weight[0])
+    datalist.append(Name[0] if len(Name)>0 else '')
+    datalist.append(Position[0] if len(Position)>0 else '')
+    datalist.append(Height[0] if len(Height)>0 else '')
+    datalist.append(Weight[0] if len(Weight)>0 else '')
     Normalseason=re.findall(FindNormalseason,html)
     Normaltm=re.findall(FindNormaltm,html)
     Normalg=re.findall(FindNormalg,html)
@@ -140,16 +144,8 @@ if __name__ == '__main__':
     name='lucky.xlsx'
     start=time.time()
     data=[]
-    for i in range(800,1500):
-        if i==850:print i
-        elif i==900:print i
-        elif i==1000:print i
-        elif i==1100:print i
-        elif i==1200:print i
-        elif i==1300:print i
-        elif i==1400:print i
-        elif i==1500:print i
-        else:pass
+    for i in range(4300,4613):
+        #if i%10==0:print i
         url = 'http://www.stat-nba.com/player/%d.html'%i
         temp=getData(url)
         data.append(temp)
