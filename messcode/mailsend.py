@@ -30,7 +30,7 @@ msg['Subject'] = Header(u'王滨', 'utf-8').encode()
 msg.attach(MIMEText('send with files','plain','utf-8'))
 
 
-xlsxpart=MIMEApplication(open('/Users/rd/Desktop/Python/messcode/王滨信计1501 2015016503.xls','rb').read())
+xlsxpart=MIMEApplication(open('/Users/rd/Desktop/Python/messcode/王滨信计1501 2015016503.xls','rb').read()) n
 xlsxpart.add_header('Content-Disposition', 'attachment',filename='王滨信计1501 2015016503.xls')
 msg.attach(xlsxpart)
 
