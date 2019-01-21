@@ -1,18 +1,31 @@
 # written by matthew
 # modify the primelist to minimize the memory
 import math
+from math import sqrt
 def isPrime(n):
     return not [i for i in range(2, int(math.sqrt(n)) + 1) if n%i == 0]
 def createPrime(n):
-    res,num,primelist=(n+1)*[1],range(n+1),[]
-    for i in range(2,n+1):
-        j=2*i
-        while j<=n:
-            res[j]=0
-            j+=i
-    for i in range(2,n+1):
-        if res[i]*num[i]:
-            primelist.append(res[i]*num[i])
+    if isPrime(n):return [n]
+    if n>25:
+        res,num,primelist=(n+1)*[1],range(n/2),[]
+        for i in range(2,n/2):
+            j=2*i
+            while j<=n:
+                res[j]=0
+                j+=i
+        for i in range(2,n/2):
+            if res[i]*num[i]:
+                primelist.append(res[i]*num[i])
+    else:
+        res, num, primelist = (n + 1) * [1], range(n + 1), []
+        for i in range(2, n + 1):
+            j = 2 * i
+            while j <= n:
+                res[j] = 0
+                j += i
+        for i in range(2, n + 1):
+            if res[i] * num[i]:
+                primelist.append(res[i] * num[i])
     return primelist
 def findfactor(n):
     factor=createPrime(n)
@@ -37,4 +50,4 @@ def trailing_zeros(num, base):
             sign=sign/primeindex[i]
             res.append(sign)
     return min(res)
-print trailing_zeros(900719925474099100,100)
+print trailing_zeros(961778957,27449)

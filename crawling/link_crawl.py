@@ -1,6 +1,6 @@
 # written by matthew
 import re,urlparse,urllib2,time
-import robotparser,Queue
+import robotparser
 from datetime import datetime
 class Throttle:
     def __init__(self,delay):

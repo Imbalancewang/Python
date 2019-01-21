@@ -1,0 +1,3 @@
+trueLable=openDevice	predictLabel=closeDevice	暂停烤箱
+trueLable=closeDevice	predictLabel=setMode	替关闭烤箱
+trueLable=openDevice	predictLabel=closeDevice	停止烤箱
